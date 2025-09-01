@@ -10,11 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Isaac de Oliveira Lima
+- Matricula: 898044
+- Proposta de projeto escolhida: 4. Coleções e Itens
+- Breve descrição sobre seu projeto: Coleção de carro antigo e superCarros de luxos. Tambem motos consideradas raras
 
 ## Print do(s) wireframe(s) criado
 
